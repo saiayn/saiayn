@@ -4,7 +4,7 @@
 
 - 🌌 I’m currently learning everything 🌌
 - 👯 I’m looking forward to collaborate with other developers 👯
-- ⚡ Fun fact: I love running ⚡
+- ⚡ Fun fact: I love running! ⚡
 
 ### Get in touch with me:
 
