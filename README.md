@@ -28,7 +28,7 @@
 
 ---
 
-<img align="left" alt="renceqq's GitHub Stats" src="https://github-readme-stats.renceqq.vercel.app/api?username=renceqq&show_icons=true&hide_border=true" />
+<img align="left" alt="renceqq's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=renceqq&show_icons=true&hide_border=true" />
 
 
 [instagram]: https://instagram.com/dafuqq8
