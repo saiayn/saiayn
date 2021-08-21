@@ -1,0 +1,47 @@
+### <b>Hi there, I'm @renceQQ👋</b>
+
+[![Instagram](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg](https://www.instagram.com/accounts/login/?next=%2Fdafuqq8%2F&source=follow)
+
+## I'm a Human Being and a part-time Developer.
+
+- 🌌 I’m currently learning everything 🌌
+- 👯 I’m looking to collaborate with others 👯
+- ⚡ Fun fact: I love running ⚡
+
+### Connect with me:
+
+[<img align="left" alt="qq | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/telegram.svg" />][telegram]
+[<img align="left" alt="dafuqq | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+<br />
+
+### Languages and Tools:
+
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][VSCODE]
+[<img align="left" alt="WindowsTerminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][WindowsTerminal]
+[<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png />][Java]
+[<img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />][C]
+[<img align="left" alt="CPP" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />][C++]
+[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][JavaScript]
+
+
+<br />
+<br />
+
+---
+
+<summary>:zap: GitHub Stats</summary>
+
+<img align="left" alt="renceqq's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=renceqq&show_icons=true&hide_border=true" />
+
+
+[instagram]: https://instagram.com/dafuqq
+[telegram]: https://t.me/grimoireqq
+
+[VSCODE]: https://code.visualstudio.com/
+[C]: https://www.cprogramming.com/
+[CPP]: https://isocpp.org/
+[Java]: https://www.java.com/en/
+[JavaScript]: https://www.javascript.com/
+[WindowsTerminal]: https://docs.microsoft.com/en-us/windows/terminal/get-started
+
