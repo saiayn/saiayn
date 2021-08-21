@@ -3,7 +3,7 @@
 ## I'm a Human Being and a part-time Developer.
 
 - 🌌 I’m currently learning everything 🌌
-- 👯 I’m looking to collaborate with others 👯
+- 👯 I’m looking forward to collaborate with other developers 👯
 - ⚡ Fun fact: I love running ⚡
 
 ### Get in touch with me:
