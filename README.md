@@ -21,7 +21,7 @@
 [<img align="left" alt="WindowsTerminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][WindowsTerminal]
 [<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png />][Java]
 [<img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />][C]
-[<img align="left" alt="CPP" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />][C++]
+[<img align="left" alt="CPP" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />][CPP]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][JavaScript]
 
 
@@ -35,7 +35,7 @@
 <img align="left" alt="renceqq's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=renceqq&show_icons=true&hide_border=true" />
 
 
-[instagram]: https://instagram.com/dafuqq
+[instagram]: https://instagram.com/dafuqq8
 [telegram]: https://t.me/grimoireqq
 
 [VSCODE]: https://code.visualstudio.com/
