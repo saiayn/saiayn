@@ -1,6 +1,4 @@
-### <b>Hi there, I'm @renceQQ👋</b>
-
-[![Instagram](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg](https://www.instagram.com/accounts/login/?next=%2Fdafuqq8%2F&source=follow)
+### Hi there, I'm @renceQQ👋
 
 ## I'm a Human Being and a part-time Developer.
 
@@ -8,7 +6,7 @@
 - 👯 I’m looking to collaborate with others 👯
 - ⚡ Fun fact: I love running ⚡
 
-### Connect with me:
+### Get in touch with me:
 
 [<img align="left" alt="qq | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/telegram.svg" />][telegram]
 [<img align="left" alt="dafuqq | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
