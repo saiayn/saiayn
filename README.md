@@ -30,7 +30,7 @@
 
 ---
 
-<img align="left" alt="My GitHub stats" src="https://github-readme-stats.vercel.app/api?username=renceqq&show_icons=true" />
+<img align="left" alt="My GitHub stats" src="https://github-readme-stats.vercel.app/api?username=kagu-tsuchi&show_icons=true" />
 
 
 
