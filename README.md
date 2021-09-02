@@ -1,12 +1,12 @@
 <p align = "center"> <img src="https://github.com/kagu-tsuchi/kagu-tsuchi/blob/master/1.gif" alt="kagu-tsuchi" /></p>
 
-### <p align="center"> Hi, I'm @kagu-tsuchi👋</p>
+### <p align="left"> Hi, I'm @kagu-tsuchi👋</p>
 
 
 ### <p align="left"> I'm a Human Being and a part-time Developer.</p>
  - 👯 I’m looking forward to collaborate with other developers 👯
- - 🌌 Currently learning everything! 🌌
- - 🏃🏻  Love running! 🏃🏻
+ - 🌌 Currently learning everything possible! 🌌
+ - 🏃🏻  Love running 🏃🏻
 ### <p align="left"> Get in touch with me:</p>
 
 [<img align="left" alt="qq | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/telegram.svg" />][telegram]
