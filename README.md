@@ -1,12 +1,6 @@
 ### <p align="left"> Hi there, I'm @kagu-tsuchi👋
-  <style>
-   .rightimg  {
-    float: right; /* Выравнивание по правому краю  */ 
-    margin: 7px 0 7px 7px; /* Отступы вокруг картинки */
-   }
-  </style>
 
-<p><img src="https://github.com/kagu-tsuchi/kagu-tsuchi/blob/master/200w.gif" alt="kagu-tsuchi" class="rightimg">
+<p align = "right"><img src="https://github.com/kagu-tsuchi/kagu-tsuchi/blob/master/200w.gif" alt="kagu-tsuchi" />
 I'm a Human Being and a part-time Developer.
 - 🌌 I’m currently learning everything 🌌
 - 👯 I’m looking forward to collaborate with other developers 👯
