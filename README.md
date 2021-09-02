@@ -1,19 +1,20 @@
-### <p align="center"> Hi, I'm @kagu-tsuchi👋</p>
-
 <p align = "center"> <img src="https://github.com/kagu-tsuchi/kagu-tsuchi/blob/master/1.gif" alt="kagu-tsuchi" /></p>
 
-### <p align="center"> I'm a Human Being and a part-time Developer.</p>
-<p align="center"> - 👯 I’m looking forward to collaborate with other developers 👯</p>
-<p align="center"> - ⚡ I love running! ⚡</p>
+### <p align="center"> Hi, I'm @kagu-tsuchi👋</p>
 
-### <p align="center"> Get in touch with me:</p>
 
-[<img align="center" alt="qq | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/telegram.svg" />][telegram]
-[<img align="center" alt="dafuqq | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+### <p align="left"> I'm a Human Being and a part-time Developer.</p>
+<p align="left"> - 👯 I’m looking forward to collaborate with other developers 👯</p>
+<p align="left"> - ⚡ I love running! ⚡</p>
+
+### <p align="left"> Get in touch with me:</p>
+
+[<img align="left" alt="qq | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/telegram.svg" />][telegram]
+[<img align="left" alt="dafuqq | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
-### <p align="center"> Languages and Tools:</p>
+### <p align = "left"> Languages and Tools:</p>
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][VSCODE]
 [<img align="left" alt="WindowsTerminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][WindowsTerminal]
