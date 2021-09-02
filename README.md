@@ -1,20 +1,20 @@
 <p align = "center"> <img src="https://github.com/kagu-tsuchi/kagu-tsuchi/blob/master/1.gif" alt="kagu-tsuchi" /></p>
 
-### <p align="left"> Hi, I'm @kagu-tsuchi👋</p>
+### Hi, I'm @kagu-tsuchi👋
 
 
-### <p align="left"> I'm a Human Being and a part-time Developer.</p>
- - 👯 I’m looking forward to collaborate with other developers 👯
+### I'm a Human Being and a part-time Developer.
+ - 👯 I’m looking forward to collaborate with other developers. 👯
  - 🌌 Currently learning everything possible! 🌌
- - 🏃🏻  Love running 🏃🏻
-### <p align="left"> Get in touch with me:</p>
+ - 🏃🏻  Love running. 🏃🏻
+### Get in touch with me:
 
 [<img align="left" alt="qq | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/telegram.svg" />][telegram]
 [<img align="left" alt="dafuqq | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
-### <p align = "left"> Languages and Tools:</p>
+### Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][VSCODE]
 [<img align="left" alt="WindowsTerminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][WindowsTerminal]
