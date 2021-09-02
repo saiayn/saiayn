@@ -1,7 +1,7 @@
 ### <p align="center"> Hi there, I'm @kagu-tsuchi👋
 
 <p align="center">
-<img src="https://github.com/kagu-tsuchi/kagu-tsuchi/blob/master/Ry6p.gif" alt="kagu-tsuchi" />
+<img src="https://github.com/kagu-tsuchi/kagu-tsuchi/blob/master/200w.gif" alt="kagu-tsuchi" />
 </p>
 
 ### Get in touch with me:
