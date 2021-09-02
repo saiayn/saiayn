@@ -1,6 +1,6 @@
 ### <p align="left"> Hi, I'm @kagu-tsuchi👋
 
-<p align = "left"><img src="https://github.com/kagu-tsuchi/kagu-tsuchi/blob/master/1.gif" alt="kagu-tsuchi" /></p>
+<p align = "center"><img src="https://github.com/kagu-tsuchi/kagu-tsuchi/blob/master/1.gif" alt="kagu-tsuchi" /></p>
 
 ### I'm a Human Being and a part-time Developer.
 - 👯 I’m looking forward to collaborate with other developers 👯
@@ -19,19 +19,16 @@
 [<img align="left" alt="WindowsTerminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][WindowsTerminal]
 [<img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />][Java]
 [<img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />][C]
-[<img align="left" alt="CPP" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />][CPP]
+[<img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][Python]
 [<img align="left" alt="Swift" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png" />][SWIFT]
+[<img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" />][Dart]
+[<img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" />][Flutter]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][JavaScript]
 [<img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][REACTJS]
 [<img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />][TYPESCRIPT]
 [<img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />][ANGULAR]
-[<img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][Python]
-[<img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />][DJANGO]
 [<img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png" />][AZURE]
-[<img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nosql/nosql.png" />][SQL]
 [<img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />][DOCKER]
-[<img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" />][Dart]
-[<img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" />][Flutter]
 
 
 
@@ -66,16 +63,13 @@
 
 [SWIFT]: https://developer.apple.com/swift/
 [C]: https://www.cprogramming.com/
-[CPP]: https://isocpp.org/
 [Java]: https://www.java.com/en/
 [JavaScript]: https://www.javascript.com/
-[SQL]: https://www.mysql.com/
 [Flutter]: https://flutter.dev/web
 [Dart]: https://dart.dev/web
 [Python]: https://www.python.org/
 [DOCKER]: https://www.docker.com/
 [AZURE]: https://azure.microsoft.com/en-us/services/app-service/web/
-[DJANGO]: https://www.djangoproject.com/
 [REACTJS]: https://reactjs.org/
 [TYPESCRIPT]: https://www.typescriptlang.org/
 [ANGULAR]: https://angular.io/guide/typescript-configuration
