@@ -4,9 +4,9 @@
 
 
 ### <p align="left"> I'm a Human Being and a part-time Developer.</p>
-<p align="left"> - 👯 I’m looking forward to collaborate with other developers 👯</p>
-<p align="left"> - ⚡ I love running! ⚡</p>
-
+ - 👯 I’m looking forward to collaborate with other developers 👯
+ - 🌌 Currently learning everything! 🌌
+ - 🏃🏻  Love running! 🏃🏻
 ### <p align="left"> Get in touch with me:</p>
 
 [<img align="left" alt="qq | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/telegram.svg" />][telegram]
