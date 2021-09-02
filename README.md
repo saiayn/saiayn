@@ -1,7 +1,7 @@
 ### <p align="center"> Hi there, I'm @kagu-tsuchi👋
 
 <p align="center">
-<img src="https://github.com/kagu-tsuchi/kagu-tsuchi/blob/master/yoriichi-tsugikuni-yoriichi.gif" alt="kagu-tsuchi" />
+<img src="https://github.com/kagu-tsuchi/kagu-tsuchi/blob/master/demon-slayer-hinokami-kagura.gif" alt="kagu-tsuchi" />
 </p>
 ## I'm a Human Being and a part-time Developer.
 
