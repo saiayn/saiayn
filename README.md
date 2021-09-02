@@ -1,5 +1,8 @@
-### Hi there, I'm @kagu-tsuchi👋
+### <p align="center"> Hi there, I'm @kagu-tsuchi👋
 
+<p align="center">
+<img src="https://github.com/kagu-tsuchi/kagu-tsuchi/blob/master/giphy.gif" alt="kagu-tsuchi" />
+</p>
 ## I'm a Human Being and a part-time Developer.
 
 - 🌌 I’m currently learning everything 🌌
