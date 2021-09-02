@@ -1,11 +1,10 @@
-### <p align="left"> Hi there, I'm @kagu-tsuchi👋
+### <p align="left"> Hi, I'm @kagu-tsuchi👋
 
 <p align = "left"><img src="https://github.com/kagu-tsuchi/kagu-tsuchi/blob/master/1.gif" alt="kagu-tsuchi" /></p>
 
-##I'm a Human Being and a part-time Developer.
-- 🌌 I’m currently learning everything 🌌
+### I'm a Human Being and a part-time Developer.
 - 👯 I’m looking forward to collaborate with other developers 👯
-- ⚡ Fun fact: I love running! ⚡
+- ⚡ I love running! ⚡
 
 ### Get in touch with me:
 
@@ -22,7 +21,14 @@
 [<img align="left" alt="Swift" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png" />][SWIFT]
 [<img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />][C]
 [<img align="left" alt="CPP" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />][CPP]
+[<img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][Python]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][JavaScript]
+[<img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" />][Flutter]
+[<img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" />][Dart]
+
+
+
+
 
 
 
@@ -31,7 +37,7 @@
 
 ---
 
-<img align="left" alt="My GitHub stats" src="https://github-readme-stats.vercel.app/api?username=kagu-tsuchi&show_icons=true" />
+<img align="left" alt="My GitHub stats" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=kagu-tsuchi&show_icons=true&include_all_commits=true&theme=tokyonight" alt="Goncharenko's github stats" />
 
 
 
@@ -46,5 +52,6 @@
 [CPP]: https://isocpp.org/
 [Java]: https://www.java.com/en/
 [JavaScript]: https://www.javascript.com/
-
-
+[Flutter]: https://flutter.dev/web
+[Dart]: https://dart.dev/web
+[Python]: https://www.python.org/
