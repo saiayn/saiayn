@@ -5,7 +5,7 @@
 
 ### I'm a Human Being and a part-time Developer.
  - 👯 I’m looking forward to collaborate with other developers. 👯
- - 🌌 Currently learning everything possible! 🌌
+ - 🌌 Currently learning everything possible. 🌌
  - 🏃🏻  Love running. 🏃🏻
 ### Get in touch with me:
 
