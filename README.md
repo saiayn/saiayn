@@ -1,7 +1,10 @@
-### <p align="center"> Hi there, I'm @kagu-tsuchi👋
+### <p align="left"> Hi there, I'm @kagu-tsuchi👋
 
-<p align="center">
-<img src="https://github.com/kagu-tsuchi/kagu-tsuchi/blob/master/200w.gif" alt="kagu-tsuchi" />
+<p><img src="https://github.com/kagu-tsuchi/kagu-tsuchi/blob/master/200w.gif" alt="kagu-tsuchi" class="rightimg">
+I'm a Human Being and a part-time Developer.
+- 🌌 I’m currently learning everything 🌌
+- 👯 I’m looking forward to collaborate with other developers 👯
+- ⚡ Fun fact: I love running! ⚡
 </p>
 
 ### Get in touch with me:
