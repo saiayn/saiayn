@@ -1,8 +1,9 @@
 ### <p align="center"> Hi there, I'm @kagu-tsuchi👋
 
 <p align="center">
-<img src="https://github.com/kagu-tsuchi/kagu-tsuchi/blob/master/original.gif" alt="kagu-tsuchi" />
+<img src="https://github.com/kagu-tsuchi/kagu-tsuchi/blob/master/Ry6p.gif" alt="kagu-tsuchi" />
 </p>
+
 ### Get in touch with me:
 
 [<img align="left" alt="qq | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/telegram.svg" />][telegram]
