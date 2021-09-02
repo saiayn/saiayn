@@ -1,14 +1,8 @@
 ### <p align="center"> Hi there, I'm @kagu-tsuchi👋
 
 <p align="center">
-<img src="https://github.com/kagu-tsuchi/kagu-tsuchi/blob/master/demon-slayer-hinokami-kagura.gif" alt="kagu-tsuchi" />
+<img src="https://github.com/kagu-tsuchi/kagu-tsuchi/blob/master/original.gif" alt="kagu-tsuchi" />
 </p>
-## I'm a Human Being and a part-time Developer.
-
-- 🌌 I’m currently learning everything 🌌
-- 👯 I’m looking forward to collaborate with other developers 👯
-- ⚡ Fun fact: I love running! ⚡
-
 ### Get in touch with me:
 
 [<img align="left" alt="qq | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/telegram.svg" />][telegram]
