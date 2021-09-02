@@ -1,4 +1,4 @@
-<p align = "center"> <img src="https://github.com/kagu-tsuchi/kagu-tsuchi/blob/master/2.gif" alt="kagu-tsuchi" /></p>
+<p align = "center"> <img src="https://github.com/kagu-tsuchi/kagu-tsuchi/blob/master/1.gif" alt="kagu-tsuchi" /></p>
 
 ### Hi, I'm @kagu-tsuchi👋
 ### I'm a Human Being and a part-time developer.
