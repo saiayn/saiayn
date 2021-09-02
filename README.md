@@ -1,10 +1,8 @@
-### Hi, I'm @kagu-tsuchi👋
-
 <p align = "center"> <img src="https://github.com/kagu-tsuchi/kagu-tsuchi/blob/master/1.gif" alt="kagu-tsuchi" /></p>
 
-
+### Hi, I'm @kagu-tsuchi👋
 ### I'm a Human Being and a part-time developer.
- - 👯 I’m looking forward to collaborate with other developers. 👯
+ - 👯 Looking forward to collaborate with other developers. 👯
  - 🌌 Currently learning everything possible. 🌌
  - 🏃🏻  Love running. 🏃🏻
 ### Get in touch with me:
