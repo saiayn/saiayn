@@ -26,6 +26,7 @@
 [<img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][REACTJS]
 [<img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />][TYPESCRIPT]
 [<img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />][ANGULAR]
+[<img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" />][AWS]
 [<img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png" />][AZURE]
 [<img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />][DOCKER]
 
@@ -59,7 +60,7 @@
 
 [VSCODE]: https://code.visualstudio.com/
 [WindowsTerminal]: https://docs.microsoft.com/en-us/windows/terminal/get-started
-
+[AWS]: https://aws.amazon.com/
 [SWIFT]: https://developer.apple.com/swift/
 [C]: https://www.cprogramming.com/
 [Java]: https://www.java.com/en/
