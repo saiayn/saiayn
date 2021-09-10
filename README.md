@@ -12,25 +12,12 @@
 
 <br />
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <br />
 <br />
 
 ---
 
 <p align = "center"> <img alt="My GitHub stats" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=kagu-tsuchi&show_icons=true&include_all_commits=true&theme=tokyonight" alt="kagu-tsuchi github stats" /> </p>
+
+[instagram]: https://instagram.com/dafuqq8
+[telegram]: https://t.me/grimoireqq
