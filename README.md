@@ -1,6 +1,6 @@
-<p align = "center"> <img src="https://github.com/kagu-tsuchi/kagu-tsuchi/blob/master/1.gif" alt="kagu-tsuchi" /></p>
+<p align = "center"> <img src="https://github.com/kagu-tsuchi/kagu-tsuchi/blob/master/1.gif" alt="kamiQQ" /></p>
 
-### Hi, I'm @kagu-tsuchi👋
+### Hi, I'm @kamiQQ👋
 ### I'm a Human Being and a part-time developer.
  - 👯 Looking forward to collaborate with other developers. 👯
  - 🌌 Currently learning everything possible. 🌌
