@@ -1,4 +1,4 @@
-<p align = "center"> <img src="https://github.com/kagu-tsuchi/kagu-tsuchi/blob/master/lucvhM.gif" alt="dafuQQ8" /></p>
+<p align = "center"> <img src="https://github.com/dafuQQ8/dafuQQ8/blob/master/lucvhM.gif" alt="dafuQQ8" /></p>
 
 ### Hi, I'm Serge👋
 ### Student at Lone Star College and a full-time software developer.
