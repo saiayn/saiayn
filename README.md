@@ -1,10 +1,8 @@
-<p align = "center"> <img src="https://github.com/kagu-tsuchi/kagu-tsuchi/blob/master/1.gif" alt="kamiQQ" /></p>
+<p align = "center"> <img src="https://github.com/kagu-tsuchi/kagu-tsuchi/blob/master/luchvhM.gif" alt="dafuQQ8" /></p>
 
 ### Hi, I'm Serge👋
-### I'm a Human Being and a part-time developer.
+### Student at Lone Star College and a full-time software developer.
  - 👯 Looking forward to collaborate with other developers. 👯
- - 🌌 Currently learning everything possible. 🌌
- - 🏃🏻  Love running. 🏃🏻
 ### Get in touch with me:
 
 [<img align="left" alt="dafuqq | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/telegram.svg" />][telegram]
