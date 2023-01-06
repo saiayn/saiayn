@@ -1,14 +1,4 @@
-<p align = "center"> <img src="https://github.com/dafuQQ8/dafuQQ8/blob/master/lucvhM.gif" alt="dafuQQ8" /></p>
-
-### Hi, I'm Serge👋
-### Student at Lone Star College and a full-time software developer.
- - 👯 Looking forward to collaborate with other developers. 👯
-### Get in touch with me:
-
-[<img align="left" alt="dafuqq | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/telegram.svg" />][telegram]
-[<img align="left" alt="dafuqq | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br />
+<p align = "center"> <img src="https://github.com/dafuQQ8/dafuQQ8/blob/33dd66576ed1728fe995de8f288139f3dcd080e5/IucvhM.gif" alt="dafuQQ8" /></p>
 
 ---
 
